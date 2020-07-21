@@ -1,6 +1,3 @@
-# GitRSS
-Manage Container Dependencies through RSS
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/freight-trust/branding/master/static/logo-420.svg" alt="Freight Trust logo">
 </p>
@@ -15,10 +12,10 @@ Manage Container Dependencies through RSS
 
 <p align="center">
   <a href="https://www.npmjs.org/package/Freight Trust-lib">
-    <img src="https://img.shields.io/github/license/freight-trust/omnibus" alt="MPL-2.0 License" />
+    <img src="https://img.shields.io/github/license/freight-trust/rss" alt="License" />
   </a>
   <a href="https://circleci.com/gh/Freight Trust/Freight Trust-lib">
-    <img src="https://img.shields.io/github/commits-since/freight-trust/omnibus/latest/master" alt="GitHub commits since latest release" />
+    <img src="https://img.shields.io/github/commits-since/freight-trust/rss/latest/master" alt="GitHub commits since latest release" />
   </a>
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
   </a>
@@ -28,6 +25,8 @@ Manage Container Dependencies through RSS
 </p>
 
 <br>
+# GitRSS
+Manage Container Dependencies through RSS
 
 > Alternatives: [https://bandito.re/](https://bandito.re/)
 ## GitHub RSS
